@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-deepface
-python-multipart
-opencv-python
-tensorflow
-keras
